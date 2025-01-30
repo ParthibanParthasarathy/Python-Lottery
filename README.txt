@@ -1,0 +1,1 @@
+A simple lottery. Enter 9 numbers and if you get them correct, you won! Kinda based on the Powerball.
